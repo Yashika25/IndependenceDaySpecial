@@ -10,4 +10,4 @@
 
 ### App Screenshot: 
 
-> ![screen](https://user-images.githubusercontent.com/39722898/44120879-72316266-a03b-11e8-9a9c-520e9d274dbb.jpeg)
+> <img src="https://user-images.githubusercontent.com/39722898/44120879-72316266-a03b-11e8-9a9c-520e9d274dbb.jpeg" width="150" height="300" />
